@@ -1,7 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
 .idea/
-ProgramowanieII_JavaFX_KM.iml
-out/
-
-
+target
